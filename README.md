@@ -56,21 +56,23 @@ Node.js + 카카오맵 API + 동호회 추천 사이트
 
 ### 💁‍♂️ 팀원소개
 ---
-<div style="text-align: center;">
-  <div style="display: inline-block; margin: 0 20px; float :left;"> 
+<div style="display: flex; justify-content: space-evenly; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="text-align: center;">
     <img src="https://github.com/susuholee.png" width="120"><br>
-    <a href="https://github.com/susuholee"> 팀장 : 이수호</a>
-  </div>
-  <div style="display: inline-block; margin: 0 60px; float:left">
-    <img src="https://github.com/zzeen2.png" width="120"><br>
-    <a href="https://github.com/zzeen2">팀원 : 김지은</a>
+    <a href="https://github.com/susuholee">팀장 : 이수호</a>
   </div>
 
-  <div style="display: inline-block; margin: 0 10px; ">
+  <div style="text-align: center;">
+    <img src="https://github.com/zzeen2.png" width="120"><br>
+    <a href="https://github.com/zzeen2/">팀원 : 김지은</a>
+  </div>
+
+  <div style="text-align: center;">
     <img src="https://github.com/Mr-Binod.png" width="120"><br>
     <a href="https://github.com/Mr-Binod">팀원 : 비노드</a>
   </div>
 </div>
+
 
 ---
 ## 📡 API 문서
